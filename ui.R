@@ -75,7 +75,7 @@ ui <- fluidPage(
 
       wellPanel(
         h4("About"),
-          HTML('&copy;<em> 2017 by Marc Weitz. The source code of this app is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY SA 4.0 License</a> and will soon be published on Github.</em>')
+          HTML('&copy;<em> 2017 by Marc Weitz. The source code of this app is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY SA 4.0 License</a> and is published on <a href="https://github.com/Trybnetic/shiny_gcm">Github</a>.</em>')
       )
     ),
 
