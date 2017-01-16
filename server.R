@@ -104,13 +104,6 @@ server <- function(input, output) {
            y=rep(0,4),
            pch=15,
            col="blue")
-
-#    curve(function(x){similarity(circles.x[1],
-#                                 circles.y[1],
-#                                 lambda=x)},
-#          from=0,
-#          to=15)
-
   })
 
   output$probability <- renderPlot({
