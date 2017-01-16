@@ -7,4 +7,4 @@ Simple type the following commands into your R REPL:
 library(shiny)
 runGitHub("trybnetic/shiny_gcm")
 ```
-**Please note:** You need to install the R-package `shiny`.
+**Please note:** You need to install the R-packages `shiny` and `plotrix`.
